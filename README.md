@@ -3,7 +3,7 @@
 <a href="https://t.me/ABISHOV_27" target"blank_"><img src="https://img.shields.io/badge/Telegram%20-111111.svg?&style=for-the-badge&logo=telegram&logoColor=blue"></a>
 <a href="https://instagram.com/1yusifff" target"blank_"><img src="https://img.shields.io/badge/Instragram%20-111111.svg?&style=for-the-badge&logo=instagram&logoColor=darkpink"></a>
 <a href="https://wa.me/+994555814543" target"blank_"><img src="https://img.shields.io/badge/WhatsApp%20-111111.svg?&style=for-the-badge&logo=whatsapp&logoColor=darkgreen"></a>
-<a href="https://www.youtube.com/channel/UC3ptTlBZufQiFzz1nzwYyhg" target"blank_"><img src="https://img.shields.io/badge/youtube%20-111111.svg?&style=for-the-badge&logo=youtube&logoColor=red"></a>
+<a href="https://youtube.com/channel/UCJNb3XJkFgebjrCCmBE9x-g" target"blank_"><img src="https://img.shields.io/badge/youtube%20-111111.svg?&style=for-the-badge&logo=youtube&logoColor=red"></a>
 <a href="https://github.com/Yushkabotss" target"blank_"><img src="https://img.shields.io/badge/GitHub%20-111111.svg?&style=for-the-badge&logo=github&logoColor=white"></a>
 </div>
 
