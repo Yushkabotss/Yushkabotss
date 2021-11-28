@@ -1,5 +1,7 @@
 ### Salam Aleykum<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 
+<img src="https://readme-typing-svg.herokuapp.com?color=F77247&width=420&lines=Mənim+Adım+Yusif+👨‍💻+📱%E2%9C%8C%EF%B8%8F;Pyth
+
 <img align="right" alt="cmulay | Read Book" src="https://github.com/IVETRI/IVETRI/blob/iMvEtRi/designs/iMvEtRi.gif" width="300" height="300" />
 
 <div align="center">
