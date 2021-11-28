@@ -1,5 +1,6 @@
-<img align="right" alt="cmulay | Read Book" src="https://github.com/IVETRI/IVETRI/blob/iMvEtRi/designs/iMvEtRi.gif" width="300" height="300" />
+### Salam Aleykum<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 
+<img align="right" alt="cmulay | Read Book" src="https://github.com/IVETRI/IVETRI/blob/iMvEtRi/designs/iMvEtRi.gif" width="300" height="300" />
 
 <div align="center">
 <h3>Sosial Media Hesablarım</h3>
