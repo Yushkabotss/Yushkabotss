@@ -1,3 +1,6 @@
+<img align="right" alt="cmulay | Read Book" src="https://github.com/IVETRI/IVETRI/blob/iMvEtRi/designs/iMvEtRi.gif" width="300" height="300" />
+
+
 <div align="center">
 <h3>Sosial Media Hesablarım</h3>
 <a href="https://t.me/ABISHOV_27" target"blank_"><img src="https://img.shields.io/badge/Telegram%20-111111.svg?&style=for-the-badge&logo=telegram&logoColor=blue"></a>
