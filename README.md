@@ -1,6 +1,6 @@
 ### Salam Aleykum<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 
-<img src="https://readme-typing-svg.herokuapp.com?color=F77247&width=420&lines=Telegramdan+kanalımı+izləməyi+unutmayın+❤%E2%9C%8C%EF%B8%8F;Telegram%2C+/%2C+@ABISHOV_27%E2%9D%A4%EF%B8%8F">
+<img src="https://readme-typing-svg.herokuapp.com?color=F77247&width=420&lines=Salam+xoş+gəldin❤%E2%9C%8C%EF%B8%8F;Telegram/+@ABISHOV_27%E2%9D%A4%EF%B8%8F">
 
 <img align="right" alt="cmulay | Read Book" src="https://github.com/IVETRI/IVETRI/blob/iMvEtRi/designs/iMvEtRi.gif" width="300" height="300" />
 
